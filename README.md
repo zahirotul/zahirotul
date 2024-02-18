@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+😄Perkenalkan nama saya **Zahirotul Maulida**.<br>
+
+🌱Saya seorang mahasiswa jurusan Sistem Informasi pada Universitas Dian Nuswantoro.<br>
+
 <!--
 **zahirotul/zahirotul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
